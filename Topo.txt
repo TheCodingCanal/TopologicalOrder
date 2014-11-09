@@ -1,0 +1,32 @@
+13
+Apple
+Banana
+Cantaloupe
+Durian
+Eggplant
+Fig
+Grape
+Huckleberry
+Imbe
+Jackfruit
+Kiwi
+Lime
+Mango
+Apple Banana
+Apple Cantaloupe
+Apple Durian
+Apple Mango
+Banana Fig
+Fig Grape
+Fig Huckleberry
+Grape Lime
+Lime Mango
+Durian Cantaloupe
+Cantaloupe Eggplant
+Durian Eggplant
+Eggplant Jackfruit
+Eggplant Imbe
+Jackfruit Imbe
+Jackfruit Kiwi
+Imbe Kiwi
+Kiwi Mango
